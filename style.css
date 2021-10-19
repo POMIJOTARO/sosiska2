@@ -1,0 +1,75 @@
+body {
+    padding: 0;
+    margin: 0;
+    background-image: url(./bg.jpg);
+}
+
+.header-logo img {
+    margin: 20px 20px 0px 0px;
+    height: 75px;
+    width: 600px;
+    box-shadow: 0 0 70px 20px rgb(0, 0, 0);
+    border-radius: 15px;
+}
+
+.header-logo {
+    display: flex;
+    justify-content: flex-end;
+    
+}
+
+.header__pretext img {
+    height: 50px;
+    width: 50px;
+}
+
+.header__pretext {
+    padding: 20px;
+    margin: 60px 1570px 60px 25px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.63);
+    border-radius: 15px;
+    font-family: sans-serif;
+    font-size: 66px;
+    font-weight: bolder;
+    box-shadow: 0 0 50px 7px black;
+}
+
+.header-text {
+    margin: 10px;
+    padding: 20px;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.63);
+    border-radius: 15px;
+    font-size: 28px;
+    font-family: sans-serif;
+    box-shadow: 0 0 50px 7px black;
+}
+
+table {
+    margin: 100px 60px 100px 100px;
+    border: 2px solid rgb(206, 206, 206);
+    background-color: #aaaaaa;
+    width: 1400px;
+    height: 2500px;
+    font-family: sans-serif;
+    font-size: 30px;
+    font-weight: bolder;
+    box-shadow: 0 0 500px 100px black;
+
+}
+
+td {
+    border: 1px solid rgb(70, 70, 70);
+    background-color: #ffffff;
+}
+
+.img {
+    height: 60px;
+    width: 60px;
+}
+
+.food {
+    height: 30px;
+    width: 30px;
+}
